@@ -5,6 +5,8 @@ Welcome to the **AI Image Generator**, a full-stack MERN application that allows
 This project is inspired by *MidJourney* and *DALL·E*, enabling image generation from natural language prompts.
 
 ---
+![Uploading image.png…]()
+
 
 ## 🌐 Live Preview
 
